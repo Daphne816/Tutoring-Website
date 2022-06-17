@@ -119,8 +119,7 @@ section h2 {font-size: 1.25rem;
                      text-align: center;
 					  font-size: 18px;}
 .callcenter address p {font-weight: bold;
-                       font-style: normal;
-					   text-decoration: underline;}
+                       font-style: normal;}
 .callcenter a:link, .callcenter a:visited, .email a:link, .email a:visited {color: black;
                                                                             font-weight: bold;
 										                                    font-style: normal;}
